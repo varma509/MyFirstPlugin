@@ -1,0 +1,2 @@
+include ':app', ':myfirstplugin', ':myfirstplugins'
+rootProject.name='MyFirstPlugin'
